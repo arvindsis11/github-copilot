@@ -1,0 +1,7 @@
+com\arvind\copilot\llm\OpenAiClient.class
+com\arvind\copilot\config\AiConfig.class
+com\arvind\copilot\model\AgentResponse.class
+com\arvind\copilot\service\AgentService.class
+com\arvind\copilot\GithubCopilotApplication.class
+com\arvind\copilot\controller\AgentController.class
+com\arvind\copilot\model\AgentRequest.class
